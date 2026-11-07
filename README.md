@@ -1,8 +1,10 @@
 # 答辩 / 述职 / 项目汇报 PPT 模板包
 
-本仓库是闲鱼店铺「AI工具库」9.9 元模板档的**买家下载页**。
+本仓库是闲鱼店铺「AI工具库」9.9 元模板档的**备用下载通道**。
 
-## 下载
+> 主通道是闲鱼私信发送的百度网盘链接（含提取码）；网盘打不开/被限速时，可用本页的 GitHub 直链兜底。
+
+## 备用下载（GitHub 直链）
 - 最新版：**[点此下载 ppt-template-pack.zip](https://github.com/chenyuan19920509-alt/ppt-template-pack/releases/latest/download/ppt-template-pack.zip)**
 - 一页纸预览：**[结构套路与避坑清单.pdf](https://github.com/chenyuan19920509-alt/ppt-template-pack/releases/latest/download/ppt-structure-guide.pdf)**
 - 历史版本见 [Releases](https://github.com/chenyuan19920509-alt/ppt-template-pack/releases)
